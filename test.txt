@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Harjeet Dung Singh
-Test
-=======
-Harjeet Dung Singh hunny
->>>>>>> 5ee882cb23e8d8298fd48e66d4bba94fa3eb0c90
+Testing new
